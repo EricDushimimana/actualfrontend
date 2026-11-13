@@ -1,0 +1,8 @@
+ACTUAL HOLDINGS FRONTEND — START HERE
+
+1. Extract this folder into C:\xampp\htdocs\
+2. Start Apache in XAMPP (MySQL is not needed).
+3. Open http://localhost/ACTUAL_HOLDINGS_VANILLA_FRONTEND/
+
+No npm install. No Node.js. No Vite.
+Read README.md for pages, structure and preview limitations.
